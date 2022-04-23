@@ -1,3 +1,3 @@
-interface Theme {}
+import { DefaultTheme } from 'styled-components';
 
-export const theme: Theme = {};
+export const theme: DefaultTheme = {};
